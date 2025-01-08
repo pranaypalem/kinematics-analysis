@@ -1,0 +1,7 @@
+math
+matplotlib
+mpl_toolkits
+numpy
+pandas
+scipy
+sympy
