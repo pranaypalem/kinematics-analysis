@@ -26,6 +26,13 @@ This repository contains a set of Jupyter notebooks focused on kinematics analys
 
 Each notebook is a standalone exploration of its topic, featuring both theoretical derivations and computational implementations to bridge the gap between concepts and practical applications.
 
+## Installation
+To run the notebooks in this repository, ensure you have the required Python packages installed. The dependencies are listed in the `requirements.txt` file. You can install them using:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Author
 This repository is authored by [Pranay Palem](https://github.com/pranaypalem), showcasing work done as part of academic assignments and research into kinematics analysis.
 
