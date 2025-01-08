@@ -15,12 +15,14 @@ This repository contains a set of Jupyter notebooks focused on kinematics analys
 - Provides solutions to assignment-based problems on foldable linkages.
 - Includes a step-by-step breakdown of the kinematic equations.
 - Demonstrates the analysis and modeling of the folding mechanisms through practical examples.
+- Incorporates quaternions to represent and compute rotations efficiently, ensuring accurate modeling of foldable linkages in 3D space.
 
 ### [Robot Kinematics](Robot-Kinematics.ipynb)
 - Delves into the kinematics of robotic systems.
 - Covers forward and inverse kinematics for robotic arms.
 - Examines transformations, joint space, and workspace analysis.
 - Utilizes practical examples to illustrate robotic motion and control strategies.
+- Employs quaternions for rotation representation, avoiding gimbal lock and enhancing computational efficiency in robotic motion analysis.
 
 Each notebook is a standalone exploration of its topic, featuring both theoretical derivations and computational implementations to bridge the gap between concepts and practical applications.
 
