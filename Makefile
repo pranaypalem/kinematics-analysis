@@ -31,7 +31,7 @@ notebooks: ## Execute notebooks to verify they work
 # Generate animations
 animations: ## Generate animation GIFs
 	cd notebooks && jupyter nbconvert --execute --to notebook Foldable-Kinematics.ipynb
-	@if [ -f notebooks/robot_animation.gif ]; then mv notebooks/robot_animation.gif assets/; fi
+	@if [ -f notebooks/robot_animation.gif ]; then mv notebooks/robot_animation.gif assets/robot_animation.gif; fi
 
 # Clean up
 clean: ## Clean temporary files
